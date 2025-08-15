@@ -95,7 +95,7 @@ This displays Python’s reserved words — you cannot use them as variable name
 ## 10. Numbers
 Numbers can be written directly without declaring type:
 ```python
-age = 20      # ✅ Preferred
+age = 20      # Preferred
 age = int(20) # Works, but less clean
 ```
 When printing numbers with text, convert to string:
