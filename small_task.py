@@ -66,4 +66,4 @@ if guess == chosen_number:
 elif guess < chosen_number:
    print("Too low! Try a higher number.")
 else:         # No condition here; else executes if all previous conditions fail
-   print("Too high! Try a lower number.")
+   print("Too high! Try a lower number.")     
