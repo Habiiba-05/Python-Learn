@@ -1,5 +1,5 @@
 # Python-Learn
-My Python learning journey: notes and exercises
+My Python learning journey
 # Python Learning Journey
 
 This repository contains my Python learning notes and exercises.  
