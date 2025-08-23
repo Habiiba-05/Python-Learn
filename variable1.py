@@ -77,3 +77,6 @@ def myfunc():
     x = 'fantastic'
 myfunc()
 print('Python is ' + x)
+
+name = input("what's your name")
+print("my name is " + name)

@@ -143,7 +143,7 @@ set_global()
 print(name)  # Output: John
 ```
 
-### Case 2: Modify an existing global variable inside a function
+### Case 2: Modify an existing global variable inside a function     
 ```python
 x = "Hello"
 

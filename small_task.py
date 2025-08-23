@@ -67,3 +67,10 @@ elif guess < chosen_number:
    print("Too low! Try a higher number.")
 else:         # No condition here; else executes if all previous conditions fail
    print("Too high! Try a lower number.")     
+
+
+
+oranges_input = input("how many oranges did you take?")
+oranges_num = 5
+taken_oranges = oranges_num - int(oranges_input)
+print("number of oranges currently is " + str(taken_oranges))
