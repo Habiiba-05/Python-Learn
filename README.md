@@ -2,8 +2,6 @@
 My Python learning journey
 # Python Learning Journey
 
-# Python-Learn  
-
 This repository contains my Python practice code and notes.  
 It’s part of my learning process as I study Python step by step.  
 
