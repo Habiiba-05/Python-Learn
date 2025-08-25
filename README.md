@@ -2,13 +2,16 @@
 My Python learning journey
 # Python Learning Journey
 
-This repository contains my Python learning notes and exercises.  
-I am currently learning Python, so all projects and exercises are for practice purposes.  
+# Python-Learn  
 
-It includes:
+This repository contains my Python practice code and notes.  
+It’s part of my learning process as I study Python step by step.  
 
-- Notes on basic Python concepts
-- Small code exercises and projects
-- Practice with variables, data types, and control statements
+## Contents  
+- Notes on Python 
+- Small exercises and examples  
+- Simple practice projects  
 
-I will update this repository as I progress in learning Python.
+## Goal  
+The purpose of this repo is to organize my learning and track progress while improving my coding skills.  
+
