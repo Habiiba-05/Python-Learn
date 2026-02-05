@@ -20,6 +20,7 @@
 # Intersection_update(): same as intersection(), but updates directly.
 
 
+# Set: Unordered, Mutable, No Duplicates, No Index Access
 
 
 my_set = {1, 2, 2, 3, 4}
@@ -46,3 +47,4 @@ print(3 in my_set)   # False
 my_set = {2, 5, 1, 2}
 for item in my_set:
     print(item)       # prints elements in arbitrary order
+# output : {1, 2, 5}

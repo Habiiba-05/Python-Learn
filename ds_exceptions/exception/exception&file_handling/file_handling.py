@@ -29,6 +29,7 @@ for line in all_lines:
 
 # Writing:
 # - "w" mode will overwrite everything in the file unless you add "\n" for new lines.
+# If the file does not exist, it is created
 
 f = open("file_read", "w")
 f.write("hello")

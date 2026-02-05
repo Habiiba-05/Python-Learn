@@ -1,5 +1,7 @@
 # Lists
 
+# lists - used to perform arithmatic and logical operators
+
 # List Methods:
 
 # Append(item) - Adds an element to the end of the list
@@ -11,14 +13,7 @@
 
 # indexing and slicing like strings
 
-# Concatenate - Merge of the same type, for ex:
-# my_list = my_list + ["habiba"]
-
-# len()  -   returns the number of items in the object
-
-# my_list*2   -   repeat the list again 
-
-
+# List: Ordered, Mutable, Allows Duplicates, Access by Index
 
 numbers = [1, 2, 3, 4, 5, 100.2, "habiba"]
 print(type(numbers))
@@ -27,16 +22,20 @@ print(type(numbers))
 numbers = [1, 2, 3, 4, 5, 100.2, "habiba"]
 print(numbers*2)
 # output : [1, 2, 3, 4, 5, 100.2, 'habiba', 1, 2, 3, 4, 5, 100.2, 'habiba']
+# my_list*2   -   repeat the list again 
 
 numbers = [1, 2, 3, 4, 5, 100.2, "habiba"]
 print(len(numbers))
 # output : 7
+# len()  -   returns the number of items in the object
 
 numbers = [1, 2, 3, 4, 5, 100.2, "habiba"]
 numbers += ["mohamed"]
 print(numbers)
 # output : [1, 2, 3, 4, 5, 100.2, 'habiba', 'mohamed']
 # don't forget [] when you add new item to the list
+# Concatenate - Merge of the same type, for ex:
+# my_list = my_list + ["habiba"]
 
 numbers = [1, 2, 3, 4, 5, 100.2, "habiba"]
 numbers.append(20)
@@ -54,3 +53,4 @@ print(numbers[6][-3])
 
 numbers = [1, 2, 3, 4, 5, 100.2, "habiba"]
 print(numbers[:3])
+# output: [1, 2, 3]

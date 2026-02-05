@@ -154,3 +154,10 @@ def change_global():
 change_global()
 print(x)  # Output: Hi
 ```
+
+---
+
+## 14. Extensions
+Extensions are tools available in Visual Studio Code that help us while writing code or doing other tasks.
+For example, Git History: if I’m working with a team on a project, it helps me see who made updates,
+who committed what, and when, so there’s always visibility on the latest changes.

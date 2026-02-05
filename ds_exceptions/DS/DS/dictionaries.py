@@ -26,6 +26,7 @@ print(my_dict)
 # Check if a key exists
 print("city" in my_dict) # True
 
-# Iterate over keys and values
+
 for key, value in my_dict.items():
     print(key, ":", value)
+# A simple way to iterate over all the keys and values in a dictionary at once.

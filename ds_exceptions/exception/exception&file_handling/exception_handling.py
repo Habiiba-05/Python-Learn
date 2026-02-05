@@ -1,6 +1,6 @@
 # exception handling
 
-# Place this in the code to handle errors that may occur
+# it's block - Place in the code to handle errors that may occur
 
 a = 5
 try:

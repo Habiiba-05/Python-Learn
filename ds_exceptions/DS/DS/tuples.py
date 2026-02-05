@@ -4,9 +4,9 @@
 
 # Define a tuple (use parentheses ())
 # The difference between a list and a tuple is that a list can be modified,
-#  while a tuple cannot be modified unless 
+# while a tuple cannot be modified unless 
 # you convert it to a list first and then turn it back into a tuple.
-
+# Tuple: Ordered, Immutable, Allows Duplicates, Access by Index
 
 
 my_tuple = (1, "apple", 3.5, 1)
