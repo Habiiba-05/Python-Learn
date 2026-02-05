@@ -1,6 +1,4 @@
 # Python-Learn
-My Python learning journey
-# Python Learning Journey
 
 This repository contains my Python practice code and notes from the Sprints internship.  
 It is part of my step-by-step learning process as I build a strong foundation in Python.
