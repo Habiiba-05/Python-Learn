@@ -2,8 +2,11 @@
 My Python learning journey
 # Python Learning Journey
 
-This repository contains my Python practice code and notes.  
-It’s part of my learning process as I study Python step by step.  
+This repository contains my Python practice code and notes from the Sprints internship.  
+It is part of my step-by-step learning process as I build a strong foundation in Python.
+
+The repository named **Flight Reservation App** is the graduation project of this internship.  
+For more details, please take a look at that repository.
 
 ## Contents  
 - Notes on Python 
