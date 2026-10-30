@@ -5,6 +5,7 @@
 # 1. "r" (read): open file for reading only. If the file does not exist, it raises an error.
 # 2. "w" (write): open file for writing. If the file already exists, it will be overwritten.
 # 3. "a" (append): open file for adding new content at the end without deleting the old content.
+# create "x"  create file, give error if file exists
 #
 # If the file is in the same folder as the script, just write its name.
 # If it is not in the same folder, you must provide the full path.
